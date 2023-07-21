@@ -58,6 +58,7 @@ module Ahoy
 
         {
           browser: client.name,
+          browser_version: client.full_version,
           os: client.os_name,
           device_type: device_type
         }
