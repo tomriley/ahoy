@@ -1,4 +1,12 @@
-## 5.0.0 (unreleased)
+## 5.0.2 (2023-10-05)
+
+- Excluded visits from Rails health check
+
+## 5.0.1 (2023-10-01)
+
+- Fixed error with geocoding with anonymity sets
+
+## 5.0.0 (2023-10-01)
 
 - Changed visits to expire with anonymity sets
 - Fixed error when Active Job is not available
